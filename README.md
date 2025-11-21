@@ -18,7 +18,7 @@
 
 <div align="center" style="padding: 20px; border: 2px solid #FFC0CB; border-radius: 15px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LanYangYang321&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AzidoPP&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8" alt="Trophies" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 </p>
 
 
-#### - 👨‍💻 All of my projects are available at https://github.com/LanYangYang321
+#### - 👨‍💻 All of my projects are available at https://github.com/AzidoPP
 #### - 📫 Reach me at [Lanyyontop@gmail.com](mailto:Lanyyontop@gmail.com)
 
 
@@ -56,17 +56,17 @@
 
 ## 📊 GitHub Stats
 
-  <a href="https://github.com/LanYangYang321"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lanyangyang321&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
+  <a href="https://github.com/AzidoPP"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AzidoPP&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
 
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/LanYangYang321/tetrojan"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LanYangYang321&repo=tetrojan&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/LanYangYang321/NTP-DDOS"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=LanYangYang321&repo=NTP-DDOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/AzidoPP/tetrojan"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AzidoPP&repo=tetrojan&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/AzidoPP/NTP-DDOS"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AzidoPP&repo=NTP-DDOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/LanYangYang321?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/AzidoPP?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 🛠️ Languages and Tools
