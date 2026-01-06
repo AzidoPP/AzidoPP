@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-  <a href="https://github.com/AzidoPP"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AzidoPP&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
+  <a href="https://github.com/AzidoPP"><img width="50%" src="https://github-stats.ubrong.com/api?username=AzidoPP&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB"></a>
 
 ## 📘 My top open source projects
 
