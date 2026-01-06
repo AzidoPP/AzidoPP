@@ -79,18 +79,19 @@
 ## 🛠️ Languages and Tools
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
+  
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://static.stmcu.com.cn/2024-st-logo-blue.svg" alt="ST MCU" width="80" height="40" />
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B"
+     alt="STMicroelectronics"
+     width="50" height="50" />
   <img src="https://www.wch.cn/assets/site/img/logo.png" alt="WCH" width="160" height="40" />
   <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="50" height="50" />
-  <img src="http://www.mounriver.com/static/img/1b749f75d9c57f654a11b29cdac777f6.png" alt="Mounriver" width="220" height="40" />
-
+  
 </div>
 
 
