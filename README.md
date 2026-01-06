@@ -18,7 +18,7 @@
 
 <div align="center" style="padding: 20px; border: 2px solid #FFC0CB; border-radius: 15px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AzidoPP&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8" alt="Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=AzidoPP&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8" alt="Trophies" />
   </a>
 </div>
 
