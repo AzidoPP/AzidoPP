@@ -78,12 +78,10 @@
 
 ## 🛠️ Languages and Tools
 
-<!-- Skill Icons（左对齐） -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=anaconda,blender,c,cpp,git,github,go,py,vscode&perline=9" />
 </p>
 
-<!-- 非 Skill Icons（保留） -->
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STMicroelectronics" width="50" height="50" />
