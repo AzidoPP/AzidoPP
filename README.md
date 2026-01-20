@@ -78,21 +78,20 @@
 
 ## 🛠️ Languages and Tools
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
+<!-- Skill Icons（左对齐） -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,blender,c,cpp,git,github,go,py,vscode&perline=9" />
+</p>
+
+<!-- 非 Skill Icons（保留） -->
+<p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B"
-     alt="STMicroelectronics"
-     width="50" height="50" />
-  <img src="https://www.wch.cn/assets/site/img/logo.png" alt="WCH" width="160" height="40" />
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STMicroelectronics" width="50" height="50" />
+  <img src="https://www.wch.cn/assets/site/img/logo.png" alt="WCH" height="40" />
   <img src="https://www.ni.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="50" height="50" />
-  
-</div>
+</p>
+
+
 
 
 <p align="center" width="100%">
